@@ -22,3 +22,8 @@ Seondary structure:Seondary structure needs to be obtained from the NetSurfP-2.0
 http://www.cbs.dtu.dk/services/NetSurfP/
 
 Click Submit and wait for a few seconds to get the result from the Result window.
+
+We also provide PSSM files, a total of 13,505.
+
+link：https://pan.baidu.com/s/1DqdQ2lcc208pJl0EMdlj_w 
+Extraction code：w0nx 
